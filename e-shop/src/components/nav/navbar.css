@@ -1,0 +1,17 @@
+
+@media (min-width: 375px){
+.rl {
+    top: 2.5rem;
+}
+}
+@media (min-width: 375px){
+.rl {
+    left: 2.5rem;
+}
+}
+@media screen and (min-width: 768px) {
+  .rl{
+    left: -13rem !important;
+  }
+  
+}
